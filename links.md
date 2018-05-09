@@ -12,4 +12,4 @@ My Twitch: [piggyluv][link3]
 
 [link1]: https://www.youtube.com/channel/UCS0ISs0BnxZuYzAwSVhT9Ww
 [link2]: https://www.roblox.com/users/235662525/profile
-[link3]; https://www.twitch.tv/piggyluv
+[link3]: https://www.twitch.tv/piggyluv
