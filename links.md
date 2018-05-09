@@ -1,7 +1,7 @@
 ---
 layout: page
-title; links
-permalink; /links/
+title: links
+permalink: /links/
 ---
 
 My Youtube channel: [piggygamin'][link1]
