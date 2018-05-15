@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<p>See what the future holds 4 u</p>
+
+<button onclick="myFunction()">Roll da dice</button>
+
+<p id="demo"></p>
+<script type="text/javascript">
+function myFunction() {
+    var x = Math.floor((Math.random() * 6) + 1);
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
+</body>
+</html>

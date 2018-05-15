@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<script type="text/javascript">
+var h = Number(prompt("How tall is the thing you are mearsuring in inch?"));
+var w = Number(prompt("How heavy is the thing you are measuring in pounds?"));
+var result = 	703 * (w/(h*h));
+var f = Math.floor(h/12);
+var i = Math.floor(h-f*12);
+document.write("Height:" + f + "'" + i + '"' + "<br>" + "Weight:"  + w + "<br>" + "BMI = " + result);
+</script>
+
+</body>
+</html>
